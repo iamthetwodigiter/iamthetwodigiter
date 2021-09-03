@@ -19,7 +19,7 @@
 <div align="center">
 <img width="400px" src="https://github.com/itscode016/itscode016/blob/main/gifs/guitar.gif" alt="Playing Guitar ?">
 <br>
-<font face="Brush Script MT" color="#FF7A59"> Playing Guitar </font>
+<p style="color: #FF7A59"> Playing Guitar </p>
 <br>
 <img width="400px" src="https://github.com/itscode016/itscode016/blob/main/gifs/study.gif" alt="Studying Hard ?">
 <br>
