@@ -18,7 +18,9 @@
 
 <div align="center">
 <img width="400px" src="https://github.com/itscode016/itscode016/blob/main/gifs/guitar.gif" alt="Playing Guitar ?">
-<br><font face="Brush Script MT" color="#FF7A59"> Playing Guitar </font>
+<br>
+<font face="Brush Script MT" color="#FF7A59"> Playing Guitar </font>
+<br>
 <img width="400px" src="https://github.com/itscode016/itscode016/blob/main/gifs/study.gif" alt="Studying Hard ?">
 <br>
 <img width="400px" src="https://github.com/itscode016/itscode016/blob/main/gifs/music.gif" alt="Listening Music ?">
