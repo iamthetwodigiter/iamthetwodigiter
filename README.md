@@ -38,7 +38,7 @@
 
 - 🌱 Currently learning Python
 - 😄 Noob to GitHub
-- 🥰 Python is ❤️
+- 🥰 Guitar ❤️🎸❤️
 
 </br>
 
