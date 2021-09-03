@@ -21,11 +21,14 @@
 <br>
 <p style="color: #FF7A59"> Playing Guitar </p>
 <img width="400px" src="https://github.com/itscode016/itscode016/blob/main/gifs/study.gif" alt="Studying Hard ?">
-<br>
+<p style="color: #FF7A59"> Studying Hard </p>
+  <br>
 <img width="400px" src="https://github.com/itscode016/itscode016/blob/main/gifs/music.gif" alt="Listening Music ?">
-<br>
+<p style="color: #FF7A59"> Listening Music </p>
+  <br>
 <img width="400px" src="https://github.com/itscode016/itscode016/blob/main/gifs/laptop.gif" alt="Freetime Coding ?">
-<br>
+<p style="color: #FF7A59"> Freetime Coding </p>
+  <br>
 <br><br>
 
 </div>
