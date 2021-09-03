@@ -20,7 +20,6 @@
 <img width="400px" src="https://github.com/itscode016/itscode016/blob/main/gifs/guitar.gif" alt="Playing Guitar ?">
 <br>
 <p style="color: #FF7A59"> Playing Guitar </p>
-<br>
 <img width="400px" src="https://github.com/itscode016/itscode016/blob/main/gifs/study.gif" alt="Studying Hard ?">
 <br>
 <img width="400px" src="https://github.com/itscode016/itscode016/blob/main/gifs/music.gif" alt="Listening Music ?">
