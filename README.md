@@ -22,7 +22,7 @@
 <img width="400px" src="https://github.com/itscode016/itscode016/blob/main/gifs/music.gif" alt="Listening Music ?">
 <img width="400px" src="https://github.com/itscode016/itscode016/blob/main/gifs/laptop.gif" alt="Freetime Coding ?">
 
-<br><br><br><br>
+<br><br>
 
 </div>
 
