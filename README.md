@@ -1,4 +1,4 @@
-<h1 align="center">Hello it's code016 here.! <img src="https://github.com/itscode016/itscode016/blob/main/gifs/Hi.gif" width="35px"></h1>
+<h1 align="center">Hello, itscode016 here.! <img src="https://github.com/itscode016/itscode016/blob/main/gifs/Hi.gif" width="35px"></h1>
 <p align="center">
 </p>
 
