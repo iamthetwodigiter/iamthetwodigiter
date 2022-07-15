@@ -20,7 +20,7 @@
 <img width="400px" src="https://github.com/iamthetwodigiter/iamthetwodigiter/blob/main/gifs/guitar.gif" alt="Playing Guitar ?">
 <br>
   <p style="color: #FF7A59"> Playing Guitar </p>
-<img width="400px" src="https://github.com/iamthetwodigiteriamthetwodigiter/blob/main/gifs/study.gif" alt="Studying Hard ?">
+<img width="400px" src="https://github.com/iamthetwodigiter/iamthetwodigiter/blob/main/gifs/study.gif" alt="Studying Hard ?">
 <br>
   <p style="color: #FF7A59"> Studying Hard </p>
 <img width="400px" src="https://github.com/iamthetwodigiter/iamthetwodigiter/blob/main/gifs/music.gif" alt="Listening Music ?">
