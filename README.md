@@ -1,4 +1,4 @@
-<h1 align="center">Hello, [iamthetwodigiter](https://github.com/iamthetwodigiter) here.! <img src="https://github.com/iamthetwodigiter/iamthetwodigiter/blob/main/gifs/Hi.gif" width="35px"></h1>
+<h1 align="center">Hello, iamthetwodigiter here.! <img src="https://github.com/iamthetwodigiter/iamthetwodigiter/blob/main/gifs/Hi.gif" width="35px"></h1>
 <p align="center">
 </p>
 
