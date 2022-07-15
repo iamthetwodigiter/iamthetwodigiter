@@ -1,4 +1,4 @@
-<h1 align="center">Hello, itscode016 here.! <img src="https://github.com/itscode016/itscode016/blob/main/gifs/Hi.gif" width="35px"></h1>
+<h1 align="center">Hello, [iamthetwodigiter](https://github.com/iamthetwodigiter) here.! <img src="https://github.com/iamthetwodigiter/iamthetwodigiter/blob/main/gifs/Hi.gif" width="35px"></h1>
 <p align="center">
 </p>
 
@@ -10,23 +10,23 @@
 ## Few things about me
 - 🎓 Learning Python
 - 😍️ Hunger for Development
-- 😎 Patient(Coding on 4GB RAM🤷🏻‍♂️)
+- 😎 Patient(Coding on 4GB RAM and HDD🤷🏻‍♂️)
 - 😉 Lust for Anime
 - 💡 Learning to Think. Thinking to learn.
 - 😴 Guitar and Songs❤️
 
 
 <div align="center">
-<img width="400px" src="https://github.com/itscode016/itscode016/blob/main/gifs/guitar.gif" alt="Playing Guitar ?">
+<img width="400px" src="https://github.com/iamthetwodigiter/iamthetwodigiter/blob/main/gifs/guitar.gif" alt="Playing Guitar ?">
 <br>
   <p style="color: #FF7A59"> Playing Guitar </p>
-<img width="400px" src="https://github.com/itscode016/itscode016/blob/main/gifs/study.gif" alt="Studying Hard ?">
+<img width="400px" src="https://github.com/iamthetwodigiteriamthetwodigiter/blob/main/gifs/study.gif" alt="Studying Hard ?">
 <br>
   <p style="color: #FF7A59"> Studying Hard </p>
-<img width="400px" src="https://github.com/itscode016/itscode016/blob/main/gifs/music.gif" alt="Listening Music ?">
+<img width="400px" src="https://github.com/iamthetwodigiter/iamthetwodigiter/blob/main/gifs/music.gif" alt="Listening Music ?">
 <br>
   <p style="color: #FF7A59"> Listening Music </p>
-<img width="400px" src="https://github.com/itscode016/itscode016/blob/main/gifs/laptop.gif" alt="Freetime Coding ?">
+<img width="400px" src="https://github.com/iamthetwodigiter/iamthetwodigiter/blob/main/gifs/laptop.gif" alt="Freetime Coding ?">
 <br>
   <p style="color: #FF7A59"> Freetime Coding </p>
 <br><br>
