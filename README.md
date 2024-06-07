@@ -20,6 +20,7 @@
 ![VS Code](https://img.icons8.com/fluency/48/000000/visual-studio-code-2019.png)
 ![Android Studio](https://img.icons8.com/color/48/000000/android-studio--v3.png)
 ![Python](https://img.icons8.com/color/48/000000/python--v1.png)
+![Dart](https://img.icons8.com/color/48/000000/dart.png)
 ![Flutter](https://img.icons8.com/color/48/000000/flutter.png)
 ![HTML](https://img.icons8.com/color/48/000000/html-5--v1.png)
 ![CSS](https://img.icons8.com/color/48/000000/css3.png)
