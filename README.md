@@ -1,24 +1,43 @@
 <h1 align="center">Kon'nichiwa <img src="https://github.com/iamthetwodigiter/iamthetwodigiter/blob/main/gifs/Hi.gif" width="35px"></h1>
 <h1 align = "center">
   
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=75&duration=1500&pause=600&color=008080&background=000000EE&center=true&vCenter=true&multiline=true&width=1920&height=384&lines=Hello+there!;My+name+is+Prabhat+Jana;Welcome+to+my+Profile" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=60&duration=1000&pause=600&color=008080&background=000000EE&center=true&vCenter=true&multiline=true&width=1920&height=384&lines=Hello+there!;My+name+is+Prabhat+Jana;Welcome+to+my+Profile" alt="Typing SVG" /></a>
 </h1>
 
-<p align="center">
-- PYTHON, C, HTML, CSS, JS
-- WEB SCRAPING
-- WEB DEVELOPMENT
-- LEARNING DSA
-</p>
+![Anime](https://i.pinimg.com/736x/a4/12/b1/a412b1344e2a1bf02c273854edc370ea.jpg)
 
-### What I always play with
-<p> 
-  <img src="https://res.cloudinary.com/nico1711/image/upload/c_scale,h_30/v1598850235/html_1_whl9rj.png" alt="html-logo">
-  <img src="https://res.cloudinary.com/nico1711/image/upload/c_scale,h_30/v1598849662/javascript_eniubp.png" alt="js-logo">
-  <img src="https://res.cloudinary.com/nico1711/image/upload/c_scale,h_30/v1598849661/css_jtfcoz.png" alt="css-logo">
+- 🏠 I'm a passionate developer from India.
+- 🐍 I love to code in Python.
+- 📱 Currently mastering Flutter.
+- 📚 Learning Firebase Authentication and Firestore
+- 💡 Knows DSA
+- 🌐 Frontend Developer
+- 🚀 Knows to work with API 
+- 🕸️ Web Scraping 
 
-</p>
 
-<br>
+## 🛠️ Tools I Use
+![VS Code](https://img.icons8.com/fluency/48/000000/visual-studio-code-2019.png)
+![Android Studio](https://img.icons8.com/color/48/000000/android-studio--v3.png)
+![Python](https://img.icons8.com/color/48/000000/python--v1.png)
+![Flutter](https://img.icons8.com/color/48/000000/flutter.png)
+![HTML](https://img.icons8.com/color/48/000000/html-5--v1.png)
+![CSS](https://img.icons8.com/color/48/000000/css3.png)
+![C](https://img.icons8.com/color/48/000000/c-programming.png)
+![C++](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png)
+![GitHub](https://img.icons8.com/fluency/48/000000/github.png)
+![Git](https://img.icons8.com/color/48/000000/git.png)
+![Firebase](https://img.icons8.com/color/48/000000/firebase.png)
+## 📈 GitHub Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=iamthetwodigiter&show_icons=true&theme=radical)
 
-#### INCOMPLETE EDIT, CAUSE I AM FEELING SLEEPY NOW.
+## 📊 Top Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iamthetwodigiter&layout=compact&theme=radical)
+
+## 🌟 Top Repository
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=iamthetwodigiter&repo=StreamSavor&theme=radical)](https://github.com/iamthetwodigiter/StreamSavor)
+
+## 🆕 Latest Repository
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=iamthetwodigiter&repo=StreamSavor&theme=radical)](https://github.com/iamthetwodigiter/StreamSavor)
+
+## 😉 Wanna build something together?? Connect with me [here](mailto:itsmeprabhatjana@gmail.com)
