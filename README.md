@@ -36,9 +36,9 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iamthetwodigiter&layout=compact&theme=radical)
 
 ## 🌟 Top Repository
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=iamthetwodigiter&repo=melodia&theme=radical)](https://github.com/iamthetwodigiter/StreamSavor)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=iamthetwodigiter&repo=melodia&theme=radical)](https://github.com/iamthetwodigiter/Melodia)
 
 ## 🆕 Latest Repository
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=iamthetwodigiter&repo=melodia&theme=radical)](https://github.com/iamthetwodigiter/StreamSavor)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=iamthetwodigiter&repo=melodia&theme=radical)](https://github.com/iamthetwodigiter/Melodia)
 
 ## 😉 Wanna build something together?? Connect with me [here](mailto:itsmeprabhatjana@gmail.com)
