@@ -32,7 +32,7 @@
 ## 📈 GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=iamthetwodigiter&show_icons=true&theme=radical)
 
-!(https://github-readme-streak-stats.herokuapp.com/?user=iamthetwodigiter&theme=highcontrast&hide_border=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=iamthetwodigiter&theme=highcontrast&hide_border=true)
 
 ## 📊 Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iamthetwodigiter&layout=compact&theme=radical)
