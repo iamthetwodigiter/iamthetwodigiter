@@ -43,4 +43,7 @@
 ## 🆕 Latest Repository
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=iamthetwodigiter&repo=melodia&theme=radical)](https://github.com/iamthetwodigiter/Melodia)
 
+## My Latest Release Downloads
+![GitHub All Releases](https://img.shields.io/github/downloads/iamthetwodigiter/melodia/total?label=Downloads&logo=GitHub)
+
 ## 😉 Wanna build something together?? Connect with me [here](mailto:itsmeprabhatjana@gmail.com)
