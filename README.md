@@ -45,9 +45,9 @@
 
 ## My Latest Projects Downloads
 - Melodia
-![GitHub All Releases](https://img.shields.io/github/downloads/iamthetwodigiter/melodia/total)
+![GitHub All Releases](https://img.shields.io/github/downloads/iamthetwodigiter/melodia/total?label="Total")
 - Megatronix Official App
-![GitHub All Releases](https://img.shields.io/github/downloads/iamthetwodigiter/Megatronix_App/total)
+![GitHub All Releases](https://img.shields.io/github/downloads/iamthetwodigiter/Megatronix_App/total?label="Total")
 
 
 ## 😉 Wanna build something together?? Connect with me [here](mailto:itsmeprabhatjana@gmail.com)
