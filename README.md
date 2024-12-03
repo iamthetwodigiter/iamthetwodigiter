@@ -43,7 +43,11 @@
 ## 🆕 Latest Repository
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=iamthetwodigiter&repo=melodia&theme=radical)](https://github.com/iamthetwodigiter/Melodia)
 
-## My Latest Project Downloads
+## My Latest Projects Downloads
+- Melodia
 ![GitHub All Releases](https://img.shields.io/github/downloads/iamthetwodigiter/melodia/total?label=Downloads&logo=GitHub)
+- Megatronix Official App
+![GitHub All Releases](https://img.shields.io/github/downloads/iamthetwodigiter/Megatronix_App/total?label=Downloads&logo=GitHub)
+
 
 ## 😉 Wanna build something together?? Connect with me [here](mailto:itsmeprabhatjana@gmail.com)
