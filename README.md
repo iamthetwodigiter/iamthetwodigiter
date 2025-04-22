@@ -41,7 +41,7 @@
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=iamthetwodigiter&repo=melodia&theme=radical)](https://github.com/iamthetwodigiter/Melodia)
 
 ## 🆕 Latest Repository
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=iamthetwodigiter&repo=melodia&theme=radical)](https://github.com/iamthetwodigiter/Melodia)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=iamthetwodigiter&repo=megatronix&theme=radical)](https://github.com/iamthetwodigiter/Megatronix)
 
 ## My Latest Projects Downloads
 - Melodia
