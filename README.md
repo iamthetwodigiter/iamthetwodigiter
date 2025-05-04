@@ -43,6 +43,12 @@
 ## 🆕 Latest Repository
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=iamthetwodigiter&repo=megatronix&theme=radical)](https://github.com/iamthetwodigiter/Megatronix)
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=iamthetwodigiter&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=iamthetwodigiter&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
 ## My Latest Projects Downloads
 - Melodia
 ![GitHub All Releases](https://img.shields.io/github/downloads/iamthetwodigiter/melodia/total?label="Total")
