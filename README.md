@@ -54,6 +54,6 @@
 ![GitHub All Releases](https://img.shields.io/github/downloads/iamthetwodigiter/melodia/total?label="Total")
 - Megatronix Official App
 ![GitHub All Releases](https://img.shields.io/github/downloads/iamthetwodigiter/Megatronix/total?label="Total")
-
+![GitHub All Releases](https://img.shields.io/github/downloads/iamthetwodigiter/ShinobiHaven/total?label="Total")
 
 ## 😉 Wanna build something together?? Connect with me [here](mailto:itsmeprabhatjana@gmail.com)
